@@ -2,7 +2,7 @@ import './globe.css';
 import ImageMapper from 'react-image-mapper';
 
 export default function Globe(){
-    const url = 'https://c1.staticflickr.com/5/4052/4503898393_303cfbc9fd_b.jpg';
+    const url = '../../assets/1K_05_BG_v0.png';
     const map = {
         name: '#1KW',
         areas: [
